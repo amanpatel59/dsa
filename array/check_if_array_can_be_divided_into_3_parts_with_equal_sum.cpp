@@ -1,3 +1,6 @@
+// question -> check if array csn be divided into 3 parts
+// with equal sum
+
 #include <bits/stdc++.h>
 
 using namespace std;

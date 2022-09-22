@@ -1,3 +1,4 @@
+// question -> finding if equilibrium point is present
 #include <bits/stdc++.h>
 
 using namespace std;

@@ -1,8 +1,8 @@
+// question -> index of 2nd largest
+
 #include <bits/stdc++.h>
 
 using namespace std;
-
-
 
 int main()
 {
